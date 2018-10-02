@@ -1,0 +1,10 @@
+# Linguagem Potigol (potigol.github.io)
+a = leia_texto
+
+resposta = se a == a.selecione(c => c>='0' e c<='9') então
+  a.injete("")((as, a) => a + as)
+senão
+  "erro"
+fim
+
+escreva resposta
